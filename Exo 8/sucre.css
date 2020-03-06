@@ -1,0 +1,149 @@
+body
+{
+    /*background-color: brown;*/
+    font-family: sans-serif;
+}
+
+h1
+{
+    text-align: center;
+    color: #d85a6f;
+    font-family: Emilys Candy, cursive;
+    font-size: 45px;
+    position: relative;
+    top: 65px;
+}
+
+p
+{
+    text-align: center;
+    color: #7c57be;
+    position: relative;
+    top: 50px;
+    left: 1px;
+}
+
+.guimauves
+{  
+    background-image: url("Enoncé le monde des sucreries/images/fondblock.jpg");
+    border: solid 3px white;
+    height: 300px;
+    width: 200px;
+    margin-bottom: 10px;
+    display: inline-block;
+    position: relative;
+    left: 360px;
+    bottom: 654px;
+}
+
+.oursons
+{
+    background-image: url("Enoncé le monde des sucreries/images/fondblock.jpg");
+    border: solid 3px white;
+    height: 300px;
+    width: 200px;
+    margin-bottom: 10px;
+    display: inline-block;
+    position: relative;
+    left: 360px;
+    bottom: 654px;
+}
+
+.sucettes
+{
+    background-image: url("Enoncé le monde des sucreries/images/fondblock.jpg");
+    border: solid 3px white;
+    height: 300px;
+    width: 200px;
+    margin-bottom: 10px;
+    display: inline-block;
+    vertical-align: -18px;
+    position: relative;
+    left: 360px;
+    bottom: 672px;
+}
+
+.reglisses
+{
+    background-image: url("Enoncé le monde des sucreries/images/fondblock.jpg");
+    border: solid 3px white;
+    height: 300px;
+    width: 200px;
+    margin-bottom: 10px;
+    display: inline-block;
+    vertical-align: 18px;
+    position: relative;
+    bottom: 345px;
+    left: -271px;
+}
+
+.cables_acides
+{
+    background-image: url("Enoncé le monde des sucreries/images/fondblock.jpg");
+    border: solid 3px white;
+    height: 300px;
+    width: 200px;
+    margin-bottom: 10px;
+    display: inline-block;
+    vertical-align: -18px;
+    position: relative;
+    bottom: 363px;
+    left: -271px;
+}
+
+.chewing_gum
+{
+    background-image: url("Enoncé le monde des sucreries/images/fondblock.jpg");
+    border: solid 3px white;
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    bottom: 345px;
+    left: -271px;
+}
+
+a
+{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    padding: 5px 5px 5px 5px;
+    margin-left: 110px;
+    position: relative;
+    top: 50px;
+}
+
+.monde
+{
+    border: solid white 2px;
+    width: 350px;
+    height: 650px;
+}
+
+h2
+{
+    text-align: center;
+    position: relative;
+    top: 50px;
+    font-family: Emilys Candy, cursive;
+    color: #7c57be;
+}
+
+.bonbon
+{
+    position: relative;
+    width: 30px;
+    left: 80px;
+    top: 35px;
+}
+
+.objet
+{
+    position: relative;
+    color: red;
+    left: 85px;
+    top: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
